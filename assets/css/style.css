@@ -1,0 +1,80 @@
+.my-name{
+    background-color:#4aaaa5;
+    color:#ffffff;
+    text-align:center;
+    height:3.75em;
+    padding-top:0.5em;
+}
+#name {
+    color: #4aaaa5;
+}
+.about-me {
+    width:18.7rem;
+    float:left;
+}
+.paragraph {
+    text-align:justify;
+    font-size:14px;
+    float:left;
+}
+.myimg {
+    max-width: 20em;
+    max-height: 19.7em;
+}
+.rpg {
+    max-width: 30em;
+    max-height: 20em;
+}
+.footer {
+    background-color: #4aaaa5;
+    height:10em;
+}
+/*portfolio*/
+
+.portfolio {
+    max-width: 70em;
+
+}
+.flaw {
+    position: relative;
+}
+.train {
+    position: absolute;
+    border-radius:30%;
+    float:left;
+    bottom: 45%;
+}
+.jamH {
+    position: absolute;
+    border-radius: 40%;
+    /*left:10%;*/
+    bottom:10%;
+    float:right;
+    display:inline;
+}
+.giph {
+    float:right;
+    left:50%;
+    bottom:5%;
+    display:inline;
+    position:relative;
+    border-radius:50%;
+    max-width: 15em;
+}
+.jamM {
+    float:right;
+    left:80%;
+    bottom:40%;
+    display:inline;
+    position:absolute;
+    border-radius:50%;
+    max-width:20em;
+}
+.images {
+    max-width: 40em;
+    min-width: available;
+}
+.text {
+    color: #4aaaa5;
+    text-align: right;
+}
